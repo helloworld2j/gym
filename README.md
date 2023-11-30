@@ -1,1 +1,1 @@
-yo! this is projected is all about training an dqnagent , so that it can perform well in openai gym . In this project i have used cartpole version 1 and maximized the reward to be stable during each episodes . and saved the model for later use.
+yo! this is projected is all about training an dqnagent , so that it can perform well in openai gym env. In this project i have used cartpole version 1 and maximized the reward to be stable during each episodes . and saved the model for later use.
