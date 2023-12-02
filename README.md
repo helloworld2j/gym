@@ -1,1 +1,13 @@
-yo! this is projected is all about training an dqnagent , so that it can perform well in openai gym env. In this project i have used cartpole version 1 and maximized the reward to be stable during each episodes . and saved the model for later use.
+* Overview : 
+This repository contains an AI model that utilizes Deep Q-Learning (DQN) to master the CartPole-v0 environment from OpenAI Gym. The model learns to balance a pole on a moving cart, achieving stability over time.
+
+* Features
+Deep Q-Learning (DQN): The model employs a DQNAgent, a reinforcement learning technique, to learn optimal actions over episodes.
+
+* CartPole-v0 Environment: 
+The model is trained and evaluated in the CartPole-v0 environment provided by OpenAI Gym.
+
+![image](https://github.com/helloworld2j/gym/assets/119477908/7688eb16-718e-404d-a0d9-c6c3a3a397d6)
+
+
+* TensorFlow Implementation: The DQN agent is implemented using TensorFlow, providing a scalable and efficient deep learning framework.
